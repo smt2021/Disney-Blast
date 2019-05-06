@@ -1,5 +1,5 @@
 @isTest
-
+//test class
 public Class GenerateConAccJunctionTriggerHelperTest{
 
     @testSetup static void setupCommonData(){
